@@ -13,7 +13,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MessagingEvents.Shared\MessagingEvents.Shared.csproj" />
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+	  <ProjectReference Include="..\..\4 - Shared\MessagingEvents.Shared\MessagingEvents.Shared.csproj" />
   </ItemGroup>
 
 </Project>

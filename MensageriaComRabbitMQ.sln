@@ -11,23 +11,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - EasyNetQ", "2 - EasyNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Console", "2 - EasyNetQ\EasyNetQ.Console\EasyNetQ.Console.csproj", "{847250A7-0364-4073-B518-B0EB8A1376AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient.Customers.API", "RabbitMQClient.Customers.API\RabbitMQClient.Customers.API.csproj", "{9150AFC1-2FCF-4C10-AB72-05F2CFB28BB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient.Customers.API", "1 - RabbitMQ.Client\RabbitMQClient.Customers.API\RabbitMQClient.Customers.API.csproj", "{9150AFC1-2FCF-4C10-AB72-05F2CFB28BB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient.Marketing.API", "RabbitMQClient.Marketing.API\RabbitMQClient.Marketing.API.csproj", "{401EC0E0-3D33-413B-A821-BFDEFBC1BE87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQClient.Marketing.API", "1 - RabbitMQ.Client\RabbitMQClient.Marketing.API\RabbitMQClient.Marketing.API.csproj", "{401EC0E0-3D33-413B-A821-BFDEFBC1BE87}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Shared", "4 - Shared", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingEvents.Shared", "MessagingEvents.Shared\MessagingEvents.Shared.csproj", "{D038CF5A-4325-4C2E-8D41-A62BCE566D93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingEvents.Shared", "4 - Shared\MessagingEvents.Shared\MessagingEvents.Shared.csproj", "{D038CF5A-4325-4C2E-8D41-A62BCE566D93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Customers.API", "EasyNetQ.Customers.API\EasyNetQ.Customers.API.csproj", "{D08FA8D5-CC88-4E05-A576-30F4D357704C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Customers.API", "2 - EasyNetQ\EasyNetQ.Customers.API\EasyNetQ.Customers.API.csproj", "{D08FA8D5-CC88-4E05-A576-30F4D357704C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Marketing.API", "EasyNetQ.Marketing.API\EasyNetQ.Marketing.API.csproj", "{251DCE5B-7B5C-4D2D-9743-99DB511345F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ.Marketing.API", "2 - EasyNetQ\EasyNetQ.Marketing.API\EasyNetQ.Marketing.API.csproj", "{251DCE5B-7B5C-4D2D-9743-99DB511345F8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - MassTransit", "3 - MassTransit", "{C9BCF6BC-499D-493F-AC7A-B743366653AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Customers.API", "MassTransit.Customers.API\MassTransit.Customers.API.csproj", "{EED84E92-D330-404D-A8EB-E182FE197201}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Customers.API", "3 - MassTransit\MassTransit.Customers.API\MassTransit.Customers.API.csproj", "{EED84E92-D330-404D-A8EB-E182FE197201}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Marketing.API", "MassTransit.Marketing.API\MassTransit.Marketing.API.csproj", "{EAB5F09A-CDD4-4E62-BB83-E92BAF4DB7E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Marketing.API", "3 - MassTransit\MassTransit.Marketing.API\MassTransit.Marketing.API.csproj", "{EAB5F09A-CDD4-4E62-BB83-E92BAF4DB7E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
